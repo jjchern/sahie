@@ -1,0 +1,13 @@
+Package: sahie
+Title: US Insurance Coverage Estimates
+Version: 0.0.0.9000
+Authors@R: 'JJ Chen <jiajia.chern@gmail.com> [aut, cre]'
+Description: An R data package contains insurance coverage estimates at various geographic levels.
+Depends:
+    R (>= 2.1.0)
+License: CC0
+Encoding: UTF-8
+LazyData: true
+URL: https://github.com/jjchern/sahie
+BugReports: https://github.com/jjchern/sahie/issues
+RoxygenNote: 5.0.1
