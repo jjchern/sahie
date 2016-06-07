@@ -3,6 +3,8 @@
 About
 =====
 
+[![Travis-CI Build Status](https://travis-ci.org/jjchern/sahie.svg?branch=master)](https://travis-ci.org/jjchern/sahie)
+
 See the [`sahieAPI` package](https://github.com/jjchern/sahieAPI) for details.
 
 Installation
