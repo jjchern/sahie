@@ -3,7 +3,7 @@
 \docType{data}
 \name{county_yr0816_ag4064}
 \alias{county_yr0816_ag4064}
-\title{County-Level Estimates of Health Insurance Coverage for Age 40-64}
+\title{County-Level Estimates of Health Insurance Coverage: Age 40-64}
 \format{An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 28283 rows and 16 columns.}
 \usage{
 county_yr0816_ag4064

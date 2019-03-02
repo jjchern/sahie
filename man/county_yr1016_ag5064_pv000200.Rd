@@ -3,14 +3,14 @@
 \docType{data}
 \name{county_yr1016_ag5064_pv000200}
 \alias{county_yr1016_ag5064_pv000200}
-\title{County-Level Estimates of Health Insurance Coverage for Age 50-64 and
-Below 200% of poverty.}
+\title{County-Level Estimates of Health Insurance Coverage: Age 50-64 and
+Below 200\% of poverty.}
 \format{An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 21998 rows and 16 columns.}
 \usage{
 county_yr1016_ag5064_pv000200
 }
 \description{
 Available years: 2010-2016. Estimates are specific to those age 50-64,
-are of any race, any sex, and with income at or below 200% of poverty.
+are of any race, any sex, and with income at or below 200\% of poverty.
 }
 \keyword{datasets}
