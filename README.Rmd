@@ -21,6 +21,6 @@ See the [`sahieAPI` package](https://github.com/jjchern/sahieAPI) for details.
 # Installation
 
 ```R
-# install.packages("devtools")
-devtools::install_github("jjchern/sahie")
+# install.packages("remotes")
+remotes::install_github("jjchern/sahie")
 ```
