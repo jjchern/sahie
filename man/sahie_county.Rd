@@ -12,4 +12,3 @@ sahie_county
 Use \code{sahie_county}.
 }
 \keyword{datasets}
-

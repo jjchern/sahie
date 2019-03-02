@@ -10,4 +10,4 @@ Encoding: UTF-8
 LazyData: true
 URL: https://github.com/jjchern/sahie
 BugReports: https://github.com/jjchern/sahie/issues
-RoxygenNote: 5.0.1
+RoxygenNote: 6.1.1
