@@ -4,7 +4,7 @@
 \name{county_yr0816_ag0018_pv000200}
 \alias{county_yr0816_ag0018_pv000200}
 \title{County-Level Estimates of Health Insurance Coverage: Age 00-18 and
-Below 200\% of poverty.}
+Below 200\% of poverty}
 \format{An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 28283 rows and 16 columns.}
 \usage{
 county_yr0816_ag0018_pv000200

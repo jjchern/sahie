@@ -43,42 +43,42 @@
 # By age and income -------------------------------------------------------
 
 #' County-Level Estimates of Health Insurance Coverage: Age 00-64 and
-#' Below 200\% of poverty.
+#' Below 200\% of poverty
 #'
 #' Available years: 2008-2016. Estimates are specific to those age under
 #' 65, are of any race, any sex, and with income at or below 200\% of poverty.
 "county_yr0816_ag0064_pv000200"
 
 #' County-Level Estimates of Health Insurance Coverage: Age 18-64 and
-#' Below 200\% of poverty.
+#' Below 200\% of poverty
 #'
 #' Available years: 2008-2016. Estimates are specific to those age 18-64,
 #' are of any race, any sex, and with income at or below 200\% of poverty.
 "county_yr0816_ag1864_pv000200"
 
 #' County-Level Estimates of Health Insurance Coverage: Age 40-64 and
-#' Below 200\% of poverty.
+#' Below 200\% of poverty
 #'
 #' Available years: 2008-2016. Estimates are specific to those age 40-64,
 #' are of any race, any sex, and with income at or below 200\% of poverty.
 "county_yr0816_ag4064_pv000200"
 
 #' County-Level Estimates of Health Insurance Coverage: Age 50-64 and
-#' Below 200\% of poverty.
+#' Below 200\% of poverty
 #'
 #' Available years: 2010-2016. Estimates are specific to those age 50-64,
 #' are of any race, any sex, and with income at or below 200\% of poverty.
 "county_yr1016_ag5064_pv000200"
 
 #' County-Level Estimates of Health Insurance Coverage: Age 00-18 and
-#' Below 200\% of poverty.
+#' Below 200\% of poverty
 #'
 #' Available years: 2008-2016. Estimates are specific to those age 00-18,
 #' are of any race, any sex, and with income at or below 200\% of poverty.
 "county_yr0816_ag0018_pv000200"
 
 #' County-Level Estimates of Health Insurance Coverage: Age 21-64 and
-#' Below 200\% of poverty.
+#' Below 200\% of poverty
 #'
 #' Available years: 2014-2016. Estimates are specific to those age 21-64,
 #' are of any race, any sex, and with income at or below 200\% of poverty.
